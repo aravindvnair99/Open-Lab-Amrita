@@ -25,7 +25,7 @@
 	},
 	"dependencies": {
 		"@tensorflow/tfjs-automl": "^1.2.0",
-		"@tensorflow/tfjs-converter": "^3.3.0",
+		"@tensorflow/tfjs-converter": "^3.7.0",
 		"@tensorflow/tfjs-core": "^3.3.0",
 		"@tensorflow/tfjs-node": "^3.7.0",
 		"axios": "^0.21.1",
